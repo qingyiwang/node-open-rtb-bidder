@@ -1,0 +1,17 @@
+{
+  "name": "node-open-rtb-bidder",
+  "description": "Open RTB Bidder",
+  "version": "0.1.0",
+  "author": "Webster Ross <webster.ross@me.com>",
+  "repository": "webster-ross/node-open-rtb-bidder",
+  "dependencies": {
+    "express": "3.5.x",
+    "lodash": "2.4.x",
+    "redis": "0.10.x",
+    "flow": "0.2.x"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  }
+}
