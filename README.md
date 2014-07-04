@@ -1,8 +1,6 @@
 Open RTB Bidder
 ==========
 
-Open RTB Bidder 
-
 ### Dependencies
     node - 0.10.x
     npm - 1.3.x
